@@ -1,0 +1,49 @@
+html {
+  height: 100%;
+}
+body {
+  font-family: "Xanh Mono", monospace;
+  color: black;
+  background: linear-gradient(to bottom, #a3bded 0%, #6991c7 100%);
+}
+h1 {
+  text-align: center;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.forecast {
+  margin-top: 25px;
+}
+
+.today {
+  font-weight: 800;
+  font-size: 28px;
+}
+
+.day {
+  color: #fff;
+  font-size: 36px;
+}
+
+.weather-icons {
+  font-size: 48px;
+}
+
+.sun-icon {
+  color: yellow;
+  font-size: 125px;
+}
+
+.high {
+  font-size: 24px;
+  line-height: 5px;
+}
+
+.low {
+  font-size: 20px;
+}
+
+.search {
+  margin: 10px;
+}
